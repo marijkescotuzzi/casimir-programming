@@ -1,3 +1,7 @@
 print('Multi-users is fun')
 
-print('conflict: contact me')
+def fun(x):
+    return 2*x
+
+print('New function')
+    
