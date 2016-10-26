@@ -10,3 +10,6 @@ a = np.arange(10)
 print(a)
 
     
+def fun2(x):
+    return 3*x    
+
