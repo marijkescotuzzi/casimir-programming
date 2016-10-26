@@ -1,3 +1,3 @@
 print('Multi-users is fun')
 
-print('Conflict emerged: contact me')
+print('conflict: contact me')
