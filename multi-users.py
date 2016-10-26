@@ -1,0 +1,1 @@
+print('Multi-users is fun')
